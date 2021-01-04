@@ -1,7 +1,8 @@
 import React from 'react'
+import EventKeycode from './components/EventKeycode'
 
 const App = () => {
-  return <h1>BoilerPlate</h1>
+  return <EventKeycode />
 }
 
 export default App
